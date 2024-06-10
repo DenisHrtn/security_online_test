@@ -1,0 +1,291 @@
+[
+  {
+    "model": "users.user",
+    "pk": 7,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$9InTUKVFG3ZjnHKbtua5q9$1ak896o62jxkqbXC54iWuN6clQHTWxfdnG/W4BIptT0=",
+      "is_superuser": true,
+      "first_name": "",
+      "last_name": "",
+      "is_staff": true,
+      "is_active": true,
+      "email": "admin@gmail.com",
+      "username": null,
+      "phone_number": "+375293308099",
+      "user_type": "",
+      "date_joined": "2024-06-10T10:45:02.631Z",
+      "last_login": "2024-06-10T12:15:06.041Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 9,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$BLZetzYzJaIe4IfOr1EeNr$xmPJwuxwHADJ44mE0iXmQvoTe25gxslkZkDU8j5/sHs=",
+      "is_superuser": false,
+      "first_name": "",
+      "last_name": "",
+      "is_staff": false,
+      "is_active": true,
+      "email": "super_employee@gmail.com",
+      "username": "super_employee",
+      "phone_number": "+375293008876",
+      "user_type": "employer",
+      "date_joined": "2024-06-10T11:47:44.700Z",
+      "last_login": "2024-06-10T11:47:44.700Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 10,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$KUVhZYWYoleNJONxHZzM7k$aAGxIofy7UOpkwRJua+RNxOnWtFNkntCL7ggwa/c91I=",
+      "is_superuser": false,
+      "first_name": "",
+      "last_name": "",
+      "is_staff": false,
+      "is_active": true,
+      "email": "customer_1@gmail.com",
+      "username": "customer_1",
+      "phone_number": "+375293342176",
+      "user_type": "customer",
+      "date_joined": "2024-06-10T11:48:52.675Z",
+      "last_login": "2024-06-10T11:48:52.675Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 11,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$mhTQtNr0y7Ybx52H4AyYCf$i8ZowaO/CCBoVvfWZDPwYvLypobVzVU+oVppmDkQo1s=",
+      "is_superuser": false,
+      "first_name": "",
+      "last_name": "",
+      "is_staff": false,
+      "is_active": true,
+      "email": "customer_2@gmail.com",
+      "username": "customer_2",
+      "phone_number": "+375295612389",
+      "user_type": "customer",
+      "date_joined": "2024-06-10T11:52:44Z",
+      "last_login": "2024-06-10T11:52:44.384Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 12,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$3Bt1xHu6u6GjakD2Xmholw$xwf8tpY2oe0QZFcCQW5+KD/y3tjoNjSPIiK9qJKF+PI=",
+      "is_superuser": false,
+      "first_name": "",
+      "last_name": "",
+      "is_staff": false,
+      "is_active": true,
+      "email": "employer_1@gmail.com",
+      "username": "employer_1",
+      "phone_number": "+375293209873",
+      "user_type": "employer",
+      "date_joined": "2024-06-10T11:54:26.452Z",
+      "last_login": "2024-06-10T11:54:26.452Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 13,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$e6oBlujB7QtTw91dbIhBbM$zv0qPl3yd7TCIF5iaDuym5Z2r8YqWIcRqQ2gRzJ3jDs=",
+      "is_superuser": false,
+      "first_name": "",
+      "last_name": "",
+      "is_staff": false,
+      "is_active": true,
+      "email": "employer_2@gmail.com",
+      "username": "employer_2",
+      "phone_number": "+375293167532",
+      "user_type": "employer",
+      "date_joined": "2024-06-10T11:55:29.254Z",
+      "last_login": "2024-06-10T11:55:29.254Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 14,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$lDqBC7awwBOFgpzeUinsnp$2wl0wX0jq/Mm49JL1lraBAJhBbLmgWlppYr4mjt690o=",
+      "is_superuser": false,
+      "first_name": "",
+      "last_name": "",
+      "is_staff": false,
+      "is_active": true,
+      "email": "employer_3@gmail.com",
+      "username": "employer_3",
+      "phone_number": "+375294104254",
+      "user_type": "employer",
+      "date_joined": "2024-06-10T11:59:41.738Z",
+      "last_login": "2024-06-10T11:59:41.738Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 15,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$ReJZ9VhMys0FNOzNtttI7e$XQvNau0iECbyxe9fOwBkyOhm2bNadHjkxvkfOcDj0a8=",
+      "is_superuser": false,
+      "first_name": "",
+      "last_name": "",
+      "is_staff": false,
+      "is_active": true,
+      "email": "test@gmail.com",
+      "username": "test",
+      "phone_number": "+375256667788",
+      "user_type": "employer",
+      "date_joined": "2024-06-10T12:13:03.773Z",
+      "last_login": "2024-06-10T12:13:03.773Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.baseprofile",
+    "pk": 9,
+    "fields": {
+      "sex": "Не выбрано",
+      "country": "Не указано",
+      "city": "Не указано"
+    }
+  },
+  {
+    "model": "users.baseprofile",
+    "pk": 10,
+    "fields": {
+      "sex": "Не выбрано",
+      "country": "Не указано",
+      "city": "Не указано"
+    }
+  },
+  {
+    "model": "users.baseprofile",
+    "pk": 11,
+    "fields": {
+      "sex": "Не выбрано",
+      "country": "Не указано",
+      "city": "Не указано"
+    }
+  },
+  {
+    "model": "users.baseprofile",
+    "pk": 12,
+    "fields": {
+      "sex": "Не выбрано",
+      "country": "Не указано",
+      "city": "Не указано"
+    }
+  },
+  {
+    "model": "users.baseprofile",
+    "pk": 13,
+    "fields": {
+      "sex": "Не выбрано",
+      "country": "Не указано",
+      "city": "Не указано"
+    }
+  },
+  {
+    "model": "users.baseprofile",
+    "pk": 14,
+    "fields": {
+      "sex": "Не выбрано",
+      "country": "Не указано",
+      "city": "Не указано"
+    }
+  },
+  {
+    "model": "users.baseprofile",
+    "pk": 15,
+    "fields": {
+      "sex": "Не выбрано",
+      "country": "Не указано",
+      "city": "Не указано"
+    }
+  },
+  {
+    "model": "users.employeeprofile",
+    "pk": 9,
+    "fields": {
+      "age": 18,
+      "telegram": null,
+      "experience": null,
+      "can_view_all_tasks": true
+    }
+  },
+  {
+    "model": "users.employeeprofile",
+    "pk": 12,
+    "fields": {
+      "age": 31,
+      "telegram": null,
+      "experience": null,
+      "can_view_all_tasks": false
+    }
+  },
+  {
+    "model": "users.employeeprofile",
+    "pk": 13,
+    "fields": {
+      "age": 54,
+      "telegram": null,
+      "experience": null,
+      "can_view_all_tasks": false
+    }
+  },
+  {
+    "model": "users.employeeprofile",
+    "pk": 14,
+    "fields": {
+      "age": 45,
+      "telegram": null,
+      "experience": null,
+      "can_view_all_tasks": false
+    }
+  },
+  {
+    "model": "users.employeeprofile",
+    "pk": 15,
+    "fields": {
+      "age": 0,
+      "telegram": null,
+      "experience": null,
+      "can_view_all_tasks": false
+    }
+  },
+  {
+    "model": "users.customerprofile",
+    "pk": 10,
+    "fields": {
+      "age": 34,
+      "social_network": null
+    }
+  },
+  {
+    "model": "users.customerprofile",
+    "pk": 11,
+    "fields": {
+      "age": 26,
+      "social_network": null
+    }
+  }
+]

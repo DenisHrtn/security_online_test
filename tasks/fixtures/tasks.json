@@ -1,0 +1,100 @@
+[
+  {
+    "model": "tasks.task",
+    "pk": 1,
+    "fields": {
+      "customer": 10,
+      "employee": null,
+      "description": "Провести собеседование.",
+      "status": "pending",
+      "created_at": "2024-06-10T12:02:33.744Z",
+      "updated_at": "2024-06-10T12:02:33.744Z",
+      "closed_at": null,
+      "report": ""
+    }
+  },
+  {
+    "model": "tasks.task",
+    "pk": 2,
+    "fields": {
+      "customer": 10,
+      "employee": 12,
+      "description": "Проверить доску тасок.",
+      "status": "in_progress",
+      "created_at": "2024-06-10T12:02:55.899Z",
+      "updated_at": "2024-06-10T12:03:38.519Z",
+      "closed_at": null,
+      "report": ""
+    }
+  },
+  {
+    "model": "tasks.task",
+    "pk": 3,
+    "fields": {
+      "customer": 10,
+      "employee": null,
+      "description": "Провести митинг.",
+      "status": "pending",
+      "created_at": "2024-06-10T12:03:10.773Z",
+      "updated_at": "2024-06-10T12:03:10.773Z",
+      "closed_at": null,
+      "report": ""
+    }
+  },
+  {
+    "model": "tasks.task",
+    "pk": 4,
+    "fields": {
+      "customer": 11,
+      "employee": 12,
+      "description": "Подписать накладные.",
+      "status": "done",
+      "created_at": "2024-06-10T12:06:16.606Z",
+      "updated_at": "2024-06-10T12:10:36.549Z",
+      "closed_at": "2024-06-10T12:10:36.549Z",
+      "report": "Все накладные подписаны. Все лежит в верхнем ящике стола секретаря."
+    }
+  },
+  {
+    "model": "tasks.task",
+    "pk": 5,
+    "fields": {
+      "customer": 11,
+      "employee": null,
+      "description": "Купить билеты на самолет для командировки.",
+      "status": "pending",
+      "created_at": "2024-06-10T12:06:36.692Z",
+      "updated_at": "2024-06-10T12:06:36.692Z",
+      "closed_at": null,
+      "report": ""
+    }
+  },
+  {
+    "model": "tasks.task",
+    "pk": 6,
+    "fields": {
+      "customer": 11,
+      "employee": 13,
+      "description": "Пообщаться со штатом.",
+      "status": "in_progress",
+      "created_at": "2024-06-10T12:06:49.585Z",
+      "updated_at": "2024-06-10T12:06:49.585Z",
+      "closed_at": null,
+      "report": ""
+    }
+  },
+  {
+    "model": "tasks.task",
+    "pk": 7,
+    "fields": {
+      "customer": 11,
+      "employee": null,
+      "description": "Выбрать место для проведения корпоратива.",
+      "status": "pending",
+      "created_at": "2024-06-10T12:08:04.904Z",
+      "updated_at": "2024-06-10T12:08:04.904Z",
+      "closed_at": null,
+      "report": ""
+    }
+  }
+]
